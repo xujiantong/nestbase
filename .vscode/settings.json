@@ -1,0 +1,5 @@
+{
+    "prettier.prettierPath": "/Users/xujiantong/pnpm/global/5/node_modules/prettier",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true
+}
